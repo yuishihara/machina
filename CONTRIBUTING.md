@@ -40,4 +40,4 @@ Kullback-Leibler -> kl
 ```
 
 # Test
-We use Tracis-CI for testing code in machina. Please check if the status of the tests is shown as passing.
+We use Travis-CI for testing code in machina. Please check if the status of the tests is shown as passing.
