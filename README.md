@@ -75,7 +75,7 @@ DeepRL algorithms can be roughly divided into 2 types.
 On-policy and Off-policy algorithms.
 On-policy algorithms use only current episodes for updating policy or some value functions.
 On the other hand, Off-policy algorithms use whole episodes for updating policy or some value functions.
-On-policy algorithms are more stable but need many episodeos.
+On-policy algorithms are more stable but need many episodes.
 Off-policy algorithms are sample efficient but unstable.
 Some algorithms like [Q-Prop](https://arxiv.org/abs/1611.02247) are a combination of On-policy and Off-policy algorithms.
 This is an example of the combination using [ppo](https://arxiv.org/abs/1707.06347) and [sac](https://arxiv.org/abs/1801.01290).
